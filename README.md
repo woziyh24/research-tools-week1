@@ -1,5 +1,5 @@
 # research-tools-week1
-Git版本控制实验练习仓库
+Git实验：Git版本控制实验练习仓库
 
 ## 目录说明
 - code：源代码
